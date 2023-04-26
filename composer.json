@@ -1,0 +1,8 @@
+{
+  "name": "liam-wholegrain/statamic-accordion-group",
+  "description": "",
+  "keywords": ["statamic"],
+  "require": {
+    "php": ">=8.0"
+  }
+}
