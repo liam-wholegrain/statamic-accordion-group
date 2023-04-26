@@ -3,6 +3,6 @@
   "description": "",
   "keywords": ["statamic"],
   "require": {
-    "php": ">=8.0"
+    "php": "^8.0"
   }
 }
